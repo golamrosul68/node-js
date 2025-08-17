@@ -1,0 +1,15 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/golamrosul68/node-js.git"
+  },
+  "author": "mern2405",
+  "license": "ISC",
+  "description": ""
+}
